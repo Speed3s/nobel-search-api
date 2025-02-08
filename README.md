@@ -31,7 +31,7 @@ Before running this project, ensure you have the following installed:
 ### ** Clone the Repository**
 
 ```sh
-git clone https://github.com/YOURUSERNAME/nobel-search-api.git
+git clone https://github.com/Speed3s/nobel-search-api.git
 cd nobel-search-api
 
 
